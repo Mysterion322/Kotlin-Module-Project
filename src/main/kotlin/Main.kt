@@ -1,3 +1,6 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    println("Добро пожаловать!")
+    val runFun=RunFunctions()
+    runFun.archiveRun()
+
 }
